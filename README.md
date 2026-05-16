@@ -30,6 +30,8 @@ I build high-performance backend systems, AI agents, and RAG pipelines — focus
 - Shipped Apache Beam migration pipeline to fix datastore inconsistency at scale · [PR #24869](https://github.com/oppia/oppia/pull/24869)
 - Eliminated CI flakiness across 3+ test suites by fixing race conditions · [PR #25010](https://github.com/oppia/oppia/pull/25010)
 
+**Major Contributions** — [Onlook](https://github.com/onlook-dev/onlook) · [DrawDB](https://github.com/drawdb-io/drawdb) · and others.
+
 ---
 
 ### ⚙️ Skills
