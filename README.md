@@ -35,15 +35,27 @@ I build high-performance backend systems, AI agents, and RAG pipelines — focus
 ---
 
 ### ⚙️ Skills
-
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,java,python,typescript,kafka,golang,spring,postgresql,mongodb,redis,docker,aws,nextjs,prisma,graphql,kubernetes" height="28"/>
+ 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,java,python,typescript,kafka,golang,spring" height="40"/><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,aws,nextjs,prisma,graphql,kubernetes" height="40"/>
 </div>
-
-`LangChain` `LangGraph` `RAG` `WebSockets` `CI/CD` `REST APIs`
-
-LeetCode **1639** · **500+** problems solved
-
+<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-2C2C2C?style=for-the-badge" />
+</p>
+LeetCode 1639 · 500+ problems solved
+ 
 ---
+ 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kishansinghifs1&theme=dark&hide_border=true&border_radius=10&card_height=200&date_format=M+j%5B%2C+Y%5D&width=495" height="200"/>
+</p>
+ 
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=kishansinghifs1&theme=dark&hide_border=true&border_radius=4&card_height=180"/>
+
